@@ -1,0 +1,2 @@
+api endpoint names should be plural nouns
+responses should have appropriate code eg 404 203
